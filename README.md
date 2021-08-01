@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MariaLubarsky
 - 👀 I’m interested in hiring best mobile developers
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning machine learning & computer vision
+- 💞️ I’m looking to collaborate on outsource long-term projects
 - 📫 How to reach me maria@tap.pm or on Linkedin
 
 <!---
